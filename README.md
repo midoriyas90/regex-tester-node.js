@@ -1,4 +1,4 @@
-#  Regular Expressions tester for JavaScript
+#  Regular Expressions tester for Nodejs
 
 Regex-Tester was made for  :
   - testing your regular expressions
